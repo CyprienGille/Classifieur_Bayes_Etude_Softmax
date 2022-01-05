@@ -41,3 +41,7 @@ On trouvera dans ce repo:
 
 - Donne un exemple d'utilisation des classifieurs de Bayes généralisés classique et vectoriel.
 - Contient un If que l'on peut toggle pour activer, à l'éxécution, soit le plotting du risque en 3d et en 2d que l'on a pu observer dans le rapport, soit l'algorithme du gradient projeté.
+
+## `Présentation Projet S7.pdf`
+
+- Le support (slides) de la présentation finale de ce projet.
